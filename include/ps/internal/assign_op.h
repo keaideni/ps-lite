@@ -6,7 +6,7 @@
  */
 #ifndef PS_INTERNAL_ASSIGN_OP_H_
 #define PS_INTERNAL_ASSIGN_OP_H_
-#include "ps/internal/utils.h"
+#include "include/ps/internal/utils.h"
 namespace ps {
 
 enum AssignOp {

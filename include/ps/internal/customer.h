@@ -11,8 +11,8 @@
 #include <functional>
 #include <thread>
 #include <memory>
-#include "ps/internal/message.h"
-#include "ps/internal/threadsafe_queue.h"
+#include "include/ps/internal/message.h"
+#include "include/ps/internal/threadsafe_queue.h"
 namespace ps {
 
 /**

@@ -8,7 +8,7 @@
 #include <functional>
 #include <thread>
 #include <algorithm>
-#include "ps/sarray.h"
+#include "include/ps/sarray.h"
 namespace ps {
 
 namespace  {

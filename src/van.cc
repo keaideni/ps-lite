@@ -1,13 +1,13 @@
 /**
  *  Copyright (c) 2015 by Contributors
  */
-#include "ps/internal/van.h"
+#include "include/ps/internal/van.h"
 #include <thread>
 #include <chrono>
-#include "ps/base.h"
-#include "ps/sarray.h"
-#include "ps/internal/postoffice.h"
-#include "ps/internal/customer.h"
+#include "include/ps/base.h"
+#include "include/ps/sarray.h"
+#include "include/ps/internal/postoffice.h"
+#include "include/ps/internal/customer.h"
 #include "./network_utils.h"
 #include "./meta.pb.h"
 #include "./zmq_van.h"

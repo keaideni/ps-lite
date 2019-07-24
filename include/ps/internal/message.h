@@ -7,7 +7,7 @@
 #include <limits>
 #include <string>
 #include <sstream>
-#include "ps/sarray.h"
+#include "include/ps/sarray.h"
 namespace ps {
 /** \brief data type */
 enum DataType {

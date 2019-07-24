@@ -4,9 +4,9 @@
 #include <unistd.h>
 #include <thread>
 #include <chrono>
-#include "ps/internal/postoffice.h"
-#include "ps/internal/message.h"
-#include "ps/base.h"
+#include "include/ps/internal/postoffice.h"
+#include "include/ps/internal/message.h"
+#include "include/ps/base.h"
 
 namespace ps {
 Postoffice::Postoffice() {

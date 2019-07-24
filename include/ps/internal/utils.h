@@ -3,8 +3,8 @@
  */
 #ifndef PS_INTERNAL_UTILS_H_
 #define PS_INTERNAL_UTILS_H_
-#include "dmlc/logging.h"
-#include "ps/internal/env.h"
+#include "include/dmlc/logging.h"
+#include "include/ps/internal/env.h"
 namespace ps {
 
 #ifdef _MSC_VER

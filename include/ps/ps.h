@@ -6,11 +6,11 @@
 #ifndef PS_PS_H_
 #define PS_PS_H_
 /** \brief basic setups in ps */
-#include "ps/base.h"
+#include "include/ps/base.h"
 /** \brief communicating with a pair of (int, string). */
-#include "ps/simple_app.h"
+#include "include/ps/simple_app.h"
 /** \brief communcating with a list of key-value paris. */
-#include "ps/kv_app.h"
+#include "include/ps/kv_app.h"
 namespace ps {
 /** \brief Returns the number of worker nodes */
 inline int NumWorkers() { return Postoffice::Get()->num_workers(); }

@@ -12,8 +12,8 @@
 #include <atomic>
 #include <ctime>
 #include <unordered_set>
-#include "ps/base.h"
-#include "ps/internal/message.h"
+#include "include/ps/base.h"
+#include "include/ps/internal/message.h"
 namespace ps {
 class Resender;
 

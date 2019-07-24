@@ -7,8 +7,8 @@
 #define PS_INTERNAL_PARALLEL_KV_MATCH_H_
 #include <thread>
 #include <algorithm>
-#include "ps/sarray.h"
-#include "ps/internal/assign_op.h"
+#include "include/ps/sarray.h"
+#include "include/ps/internal/assign_op.h"
 
 namespace ps {
 namespace  {

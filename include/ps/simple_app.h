@@ -4,8 +4,8 @@
 #ifndef PS_SIMPLE_APP_H_
 #define PS_SIMPLE_APP_H_
 #include <string>
-#include "ps/internal/message.h"
-#include "ps/internal/postoffice.h"
+#include "include/ps/internal/message.h"
+#include "include/ps/internal/postoffice.h"
 namespace ps {
 
 /**
