@@ -1,8 +1,8 @@
 /**
  *  Copyright (c) 2015 by Contributors
  */
-#include "/include/ps/internal/customer.h"
-#include "/include/ps/internal/postoffice.h"
+#include "include/ps/internal/customer.h"
+#include "include/ps/internal/postoffice.h"
 namespace ps {
 
 const int Node::kEmpty = std::numeric_limits<int>::max();
